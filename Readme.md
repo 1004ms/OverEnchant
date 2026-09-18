@@ -956,8 +956,8 @@ Made By • PupillaViola.
 
 ## Support
 
-If you find a bug or need help with OverEnchant, contact:
+If you find a bug or need help with OverEnchant, contact on discord:
 
 ```text
-pupillaviola on discord
+pupillaviolaa
 ```
