@@ -959,5 +959,5 @@ Made By • PupillaViola.
 If you find a bug or need help with OverEnchant, contact:
 
 ```text
-PupillaViola
+pupillaviola on discord
 ```
